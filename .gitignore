@@ -1,7 +1,6 @@
-__pycache__
+venv/
 *.pt
-*.json
+opus_books_weights/
 runs/
-weights/
-
-wandb/
+__pycache__/
+Helsinki-NLP/
